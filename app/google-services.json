@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "385962167075",
+    "firebase_url": "https://gradlebuildstest.firebaseio.com",
+    "project_id": "gradlebuildstest",
+    "storage_bucket": "gradlebuildstest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385962167075:android:64b8071b1d416ced",
+        "android_client_info": {
+          "package_name": "com.gradlefun.variousbuilds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385962167075-g8nbuh08qikk31hrhc7clv7rk5kaignm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gradlefun.variousbuilds",
+            "certificate_hash": "5121e9f2f250f00e348cc127bf7b36bf33f0cef6"
+          }
+        },
+        {
+          "client_id": "385962167075-36jicra6lmfbd4jfrmbntdi9c9d4m0fu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4FNqWkk5qrBRmMTv4fV8wNGfMlNLzgH4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385962167075-36jicra6lmfbd4jfrmbntdi9c9d4m0fu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
