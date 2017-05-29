@@ -49,6 +49,143 @@
           "status": 2
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385962167075:android:f2d139f5e8732e40",
+        "android_client_info": {
+          "package_name": "com.gradlefun.variousbuilds.gamesnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385962167075-cg7m662oq04vuq4cvofv4tfjtv22vdmt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gradlefun.variousbuilds.gamesnews",
+            "certificate_hash": "5121e9f2f250f00e348cc127bf7b36bf33f0cef6"
+          }
+        },
+        {
+          "client_id": "385962167075-36jicra6lmfbd4jfrmbntdi9c9d4m0fu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4FNqWkk5qrBRmMTv4fV8wNGfMlNLzgH4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385962167075-36jicra6lmfbd4jfrmbntdi9c9d4m0fu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385962167075:android:7cfc37d2312942a9",
+        "android_client_info": {
+          "package_name": "com.gradlefun.variousbuilds.regularnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385962167075-36jicra6lmfbd4jfrmbntdi9c9d4m0fu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4FNqWkk5qrBRmMTv4fV8wNGfMlNLzgH4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385962167075:android:08ee14ebc71413d9",
+        "android_client_info": {
+          "package_name": "com.gradlefun.variousbuilds.gamesnews.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385962167075-36jicra6lmfbd4jfrmbntdi9c9d4m0fu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4FNqWkk5qrBRmMTv4fV8wNGfMlNLzgH4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385962167075:android:67f611b2fdd533d0",
+        "android_client_info": {
+          "package_name": "com.gradlefun.variousbuilds.regularnews.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385962167075-36jicra6lmfbd4jfrmbntdi9c9d4m0fu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4FNqWkk5qrBRmMTv4fV8wNGfMlNLzgH4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
     }
   ],
   "configuration_version": "1"

@@ -12,9 +12,30 @@ android {
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
-        release {
+        liteDebug {
+            debuggable true
+            applicationIdSuffix ".debug"
+        }
+        liteRelease {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+        proDebug {
+            debuggable true
+            applicationIdSuffix ".debug"
+        }
+        proRelease {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    productFlavors {
+        gamesnews {
+            applicationIdSuffix ".gamesnews"
+        }
+        regularnews {
+            applicationIdSuffix ".regularnews"
         }
     }
 }
